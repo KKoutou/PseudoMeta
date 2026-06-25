@@ -1,4 +1,4 @@
-👤 Author: 高宇桐(GAO YUTONG,コウ　ウトウ)
+👤 Author: 高宇桐(GAO YUTONG)
 
 🧬 Description:
 This is an R package for single-cell sequencing data, providing a framework named PseudoMeta that infers the developmental time of individual cells using non-parametric statistical methods.
